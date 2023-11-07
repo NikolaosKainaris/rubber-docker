@@ -1,0 +1,1 @@
+- Image files under /workshop/images are missing -> should contain ubuntu and busybox images
